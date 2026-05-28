@@ -1,10 +1,14 @@
-# OS files
+# ── קוד התוכנה — נשאר מקומי, לא עולה ל-GitHub ──
+index.html
+css/
+js/
+docs/
+temp.txt
+
+# ── קבצי מערכת ──
 .DS_Store
 Thumbs.db
-
-# Editor folders
 .vscode/
 .idea/
-
-# Local config overrides
 *.local
+.claude/
