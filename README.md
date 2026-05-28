@@ -15,13 +15,17 @@
 
 ## 📸 Screenshots
 
-| Login Screen | Project Dashboard | Tree Table |
+| Login Screen | Project Dashboard | Project Editor |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Trees](screenshots/tree-table.png) |
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Project](screenshots/project-editor.png) |
 
-| Analysis Tab | PDF Report | Admin Panel |
+| Tree Table (21 columns) | PDF Report — Tree Table | PDF Summary Tables |
 |---|---|---|
-| ![Analysis](screenshots/analysis.png) | ![PDF](screenshots/pdf-report.png) | ![Admin](screenshots/admin.png) |
+| ![Trees](screenshots/tree-table.png) | ![PDF Table](screenshots/pdf-tree-table.png) | ![PDF Summary](screenshots/pdf-summary-tables.png) |
+
+| Photos Gallery + PDF Cover | Full Report Preview |
+|---|---|
+| ![Photos](screenshots/photos-and-pdf-cover.png) | ![PDF](screenshots/pdf-summary.png) |
 
 ---
 
