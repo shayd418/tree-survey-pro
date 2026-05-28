@@ -8,8 +8,7 @@
 
 ## 📺 Demo Video
 
-<!-- Add your demo video here once recorded -->
-> 🎬 *Demo video coming soon — contact for a live walkthrough*
+<video src="video/demo.mp4" controls width="100%"></video>
 
 ---
 
